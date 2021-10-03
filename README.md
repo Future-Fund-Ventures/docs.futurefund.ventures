@@ -4,7 +4,7 @@
 
 Future Fund is a project focused on the development of passive portfolio management strategies for the Avalanche network.
 
-Future Fund is managed by the holders of its governance token [FFV](https://etherscan.io/token/0x86772b1409b61c639eaac9ba0acfbb6e238e5f83), which is used to vote on proposals for protocol updates and high level index management such as the definition of market sectors and the creation of new management strategies.
+Future Fund is managed by the holders of its governance token [FFV](https://cchain.explorer.avax.network/token/0x86772b1409b61c639eaac9ba0acfbb6e238e5f83), which is used to vote on proposals for protocol updates and high level index management such as the definition of market sectors and the creation of new management strategies.
 
 ## Index Pools
 The first product developed by Future Fund is a set of capitalization-weighted index pools designed to replicate the behavior of index funds, which historically [have returned better and more consistent returns](https://www.cnbc.com/2019/03/15/active-fund-managers-trail-the-sp-500-for-the-ninth-year-in-a-row-in-triumph-for-indexing.html) than actively managed funds on the stock market.

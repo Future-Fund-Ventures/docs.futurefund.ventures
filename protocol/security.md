@@ -6,7 +6,7 @@ Because of limited availability, the FFV contracts have not been audited by an e
 
 ## Risks
 
-It is important for users to understand that the FFV governance organization has the ability to change the proxy implementation for most core contracts in the Indexed protocol. All governance transactions are subject to a two day time lock, so careful users should [monitor proposals submitted to the governor contract](https://etherscan.io/address/0x95129751769f99CC39824a0793eF4933DD8Bb74B#code).
+It is important for users to understand that the FFV governance organization has the ability to change the proxy implementation for most core contracts in the Indexed protocol. All governance transactions are subject to a two day time lock, so careful users should [monitor proposals submitted to the governor contract](https://cchain.explorer.avax.network/address/0x95129751769f99CC39824a0793eF4933DD8Bb74B#code).
 
 ## Warning
 

@@ -10,7 +10,7 @@ On this page, we'll quickly explain what the Sigma program aims to do, how it do
 
 In short: the Sigma committee are responsible for maintaining certain products within the Indexed protocol, and routing liquidity to them where necessary.
 
-The 'core' products that are offered by Indexed - DEFI5, CC10 and ORCL5 - are maintained entirely by the DAO, in that their [controller](https://etherscan.io/address/0xf00a38376c8668fc1f3cd3daeef42e0e44a7fcdb) - the contract that has the power to create pools and adjust membership - is owned by the FFV [Timelock contract](https://etherscan.io/address/0x78a3ef33cf033381feb43ba4212f2af5a5a0a2ea) (the treasury), the admin of which is the Indexed [Governor Alpha contract](https://etherscan.io/address/0x95129751769f99cc39824a0793ef4933dd8bb74b).
+The 'core' products that are offered by Indexed - DEFI5, CC10 and ORCL5 - are maintained entirely by the DAO, in that their [controller](https://cchain.explorer.avax.network/address/0xf00a38376c8668fc1f3cd3daeef42e0e44a7fcdb) - the contract that has the power to create pools and adjust membership - is owned by the FFV [Timelock contract](https://cchain.explorer.avax.network/address/0x78a3ef33cf033381feb43ba4212f2af5a5a0a2ea) (the treasury), the admin of which is the Indexed [Governor Alpha contract](https://cchain.explorer.avax.network/address/0x95129751769f99cc39824a0793ef4933dd8bb74b).
 
 The upshot of this is that on-chain governance votes are required to operate these pools (i.e. adding or removing tokens from the asset lists). This is very much as things should be - reweighs and reindexes can be triggered by anyone, but changes need to be approved by protocol governance.
 

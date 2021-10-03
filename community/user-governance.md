@@ -10,7 +10,7 @@ _Last update: 14 June 2021_
 
 The Indexed protocol is governed by the Indexed DAO, which is defined as all parties that hold the FFV governance token.
 
-As FFV is a fork of [Compound (COMP)](https://etherscan.io/token/0xc00e94cb662c3520282e6f5717214004a7f26888), this means that we utilize the [Governor Alpha](https://web.archive.org/web/20201205152826/https://compound.finance/docs/governance) module in conjunction with a Timelock contract in order to enable the DAO to implement changes that have popular support.
+As FFV is a fork of [Compound (COMP)](https://cchain.explorer.avax.network/token/0xc00e94cb662c3520282e6f5717214004a7f26888), this means that we utilize the [Governor Alpha](https://web.archive.org/web/20201205152826/https://compound.finance/docs/governance) module in conjunction with a Timelock contract in order to enable the DAO to implement changes that have popular support.
 
 The life-cycle of a governance proposal is:
 
@@ -90,7 +90,7 @@ This is not yet live, but FFV that is staked in this way will automatically dele
 
 ## Metagovernance
 
-As the ultimate owners of the [core controller](https://etherscan.io/address/0xf00a38376c8668fc1f3cd3daeef42e0e44a7fcdb#writeProxyContract), the DAO indirectly has voting rights on any protocols with governance power that the core index pools hold tokens for. At the time of writing, there are two tokens that utilize the same governance structure as FFV: COMP and UNI, which are in both DEFI5 and CC10.
+As the ultimate owners of the [core controller](https://cchain.explorer.avax.network/address/0xf00a38376c8668fc1f3cd3daeef42e0e44a7fcdb#writeProxyContract), the DAO indirectly has voting rights on any protocols with governance power that the core index pools hold tokens for. At the time of writing, there are two tokens that utilize the same governance structure as FFV: COMP and UNI, which are in both DEFI5 and CC10.
 
 [Proposal 4](https://www.withtally.com/governance/indexed/proposal/4) enabled 'metagovernance' of these two tokens, whereby the tokens held by these pools are delegated to metagovernor contracts, and the pool controller can direct these contracts to vote on proposals put forward by these external protocols.
 
