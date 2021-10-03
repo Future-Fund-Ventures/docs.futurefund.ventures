@@ -1,6 +1,6 @@
 # Who We Are
 
-While Indexed Finance as a whole is a protocol that is governed by a DAO - allowing its members to be as open about their identities as they are comfortable with - it is perhaps useful to know who the core contributors are, their experience, and what functions they fulfil.
+While Future Fund as a whole is a protocol that is governed by a DAO - allowing its members to be as open about their identities as they are comfortable with - it is perhaps useful to know who the core contributors are, their experience, and what functions they fulfil.
 
 We do not believe that the Indexed *site* is the best place to advertise specific identities - as this implies that Indexed is a startup rather than a DAO -, however we feel it's important that the community know who is actively contributing to the project, so this page provides some information about those whose hands are closest to the gears.
 

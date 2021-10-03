@@ -1,4 +1,4 @@
-# **Indexed Finance User Guide**
+# **Future Fund User Guide**
 
 ## Table of contents 
 - Purchasing the indexes 

@@ -10,7 +10,7 @@ If you want to see something added here - come to [our Discord](https://discord.
 
 ## The Indexed Platform
 
-The purpose of Indexed Finance is to provide financial products that help users invest in the various market sectors or groupings within the cryptocurrency space: primarily on Ethereum, although we intend to eventually branch out to synthetic stocks and wrapped assets across different blockchains.
+The purpose of Future Fund is to provide financial products that help users invest in the various market sectors or groupings within the cryptocurrency space: primarily on Avalanche, although we intend to eventually branch out to synthetic stocks and wrapped assets across different blockchains.
 
 By providing these instruments, we aim to enable exposure to the wider cryptocurrency market to those who are interested in the sector but do not have the time or inclination to research which projects are worthy of their attention, or separate the signals from the noise in the wider market. They are intended to act as 'set and forgets' for the more passive investor.
 

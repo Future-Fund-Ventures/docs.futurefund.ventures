@@ -1,6 +1,6 @@
 # Index Tokens FAQ
 
-All of our indices are themselves ERC20-compliant Ethereum tokens, with their prices reflected by the weighted performance of their constituents. The strategy for determing weights within a particular index is determined by the [index controller](../protocol/index-controller.md) associated with it.
+All of our indices are themselves ERC20-compliant Avalanche tokens, with their prices reflected by the weighted performance of their constituents. The strategy for determing weights within a particular index is determined by the [index controller](../protocol/index-controller.md) associated with it.
 
 *Last update: 1 August 2021*
 
@@ -8,7 +8,7 @@ All of our indices are themselves ERC20-compliant Ethereum tokens, with their pr
 
 At present, we have six indices available for purchase, with the following descriptions:
 
-* [DEFI5](https://www.coingecko.com/en/coins/defi-top-5-index) - a hyper-focused index of the most successful large-cap decentralized finance protocols across the Ethereum chain,
+* [DEFI5](https://www.coingecko.com/en/coins/defi-top-5-index) - a hyper-focused index of the most successful large-cap decentralized finance protocols across the Avalanche chain,
 * [CC10](https://www.coingecko.com/en/coins/cryptocurrency-top-10-index) - an index combining several popular medium/large-cap protocols, primarily drawn from decentralized finance,
 * [ORCL5](https://www.coingecko.com/en/coins/oracle-top-5-index) - an index representing the current market leaders in protocols designed to bring external data onto the blockchain,
 * [DEGEN](https://www.coingecko.com/en/coins/degen-index) - a higher risk/reward index of promising Ethereum protocols that have significant room to grow,

@@ -114,7 +114,7 @@ Depending on how rates evolve (and the amount within a given vault), rebalances 
 
 ## I Deposited/Withdrew X Tokens, And Some Wrapped Tokens Went To The Treasury - Why?
 
-Fees accrued within the vault are transferred to the Indexed Finance DAO upon every deposit or withdrawal.
+Fees accrued within the vault are transferred to the Future Fund DAO upon every deposit or withdrawal.
 
 If you're concerned that you've received 'fewer' nTokens or underlying tokens than you'd expect to have done as a result, you haven't. What the vault has done is inflated the nToken supply (updating the conversion ratios appropriately) and treated the fee claim as a deposit of `fees_due` to a vault with a balance of `balance - fees_due`.
 

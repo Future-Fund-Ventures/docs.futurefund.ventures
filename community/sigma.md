@@ -74,7 +74,7 @@ Examples of successful applications made in this manner are:
 
 All NDX liquidity mining has been rolled into a single fork of Masterchef V2, which covers both single-sided staking, core pools and Sigma pools.
 
-The details of the liquidity mining program can be found [here](https://ndxfi.medium.com/introducing-the-extended-ndx-liquidity-mining-program-ae30a0470001), and the staking page itself can be found [here](https://indexed.finance/staking) - to ensure that your balances show up correctly, please make sure that your wallet is connected (top-right of the app) and that you're on the Ethereum mainnet.
+The details of the liquidity mining program can be found [here](https://ndxfi.medium.com/introducing-the-extended-ndx-liquidity-mining-program-ae30a0470001), and the staking page itself can be found [here](https://indexed.finance/staking) - to ensure that your balances show up correctly, please make sure that your wallet is connected (top-right of the app) and that you're on the Avalanche mainnet.
 
 ## The Circuit Breaker
 
