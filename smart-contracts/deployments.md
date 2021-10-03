@@ -26,7 +26,7 @@
 
 | Contract | Link |
 | ----------- | ----------- |
-| dNDX | [0x262cd9ADCE436B6827C01291B84f1871FB8b95A3](https://etherscan.io/address/0x262cd9adce436b6827c01291b84f1871fb8b95a3#code) |
+| dFFV | [0x262cd9ADCE436B6827C01291B84f1871FB8b95A3](https://etherscan.io/address/0x262cd9adce436b6827c01291b84f1871fb8b95a3#code) |
 | SharesTimeLock | [0xEE285F0Ef0cb1d103A64A85E5A0EDFEdcB53900f](https://etherscan.io/address/0xee285f0ef0cb1d103a64a85e5a0edfedcb53900f#code) |
 
 
@@ -35,7 +35,7 @@
 | Contract      | Link |
 | ----------- | ----------- |
 | GovernorAlpha | [0x95129751769f99CC39824a0793eF4933DD8Bb74B](https://etherscan.io/address/0x95129751769f99CC39824a0793eF4933DD8Bb74B#code) |
-| NDX | [0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83](https://etherscan.io/token/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83#code) |
+| FFV | [0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83](https://etherscan.io/token/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83#code) |
 | Timelock | [0x78a3eF33cF033381FEB43ba4212f2Af5A5A0a2EA](https://etherscan.io/address/0x78a3eF33cF033381FEB43ba4212f2Af5A5A0a2EA#code) |
 
 # Sigma

@@ -10,7 +10,7 @@ On this page, we'll quickly explain what the Sigma program aims to do, how it do
 
 In short: the Sigma committee are responsible for maintaining certain products within the Indexed protocol, and routing liquidity to them where necessary.
 
-The 'core' products that are offered by Indexed - DEFI5, CC10 and ORCL5 - are maintained entirely by the DAO, in that their [controller](https://etherscan.io/address/0xf00a38376c8668fc1f3cd3daeef42e0e44a7fcdb) - the contract that has the power to create pools and adjust membership - is owned by the NDX [Timelock contract](https://etherscan.io/address/0x78a3ef33cf033381feb43ba4212f2af5a5a0a2ea) (the treasury), the admin of which is the Indexed [Governor Alpha contract](https://etherscan.io/address/0x95129751769f99cc39824a0793ef4933dd8bb74b).
+The 'core' products that are offered by Indexed - DEFI5, CC10 and ORCL5 - are maintained entirely by the DAO, in that their [controller](https://etherscan.io/address/0xf00a38376c8668fc1f3cd3daeef42e0e44a7fcdb) - the contract that has the power to create pools and adjust membership - is owned by the FFV [Timelock contract](https://etherscan.io/address/0x78a3ef33cf033381feb43ba4212f2af5a5a0a2ea) (the treasury), the admin of which is the Indexed [Governor Alpha contract](https://etherscan.io/address/0x95129751769f99cc39824a0793ef4933dd8bb74b).
 
 The upshot of this is that on-chain governance votes are required to operate these pools (i.e. adding or removing tokens from the asset lists). This is very much as things should be - reweighs and reindexes can be triggered by anyone, but changes need to be approved by protocol governance.
 
@@ -34,7 +34,7 @@ Here are the current members of the Sigma committee, along with their Discord us
 
 There are two main 'concerns' when having the DAO administer the creation or adjustment of indices against the core controller:
 
-1. The proposer requires 1% of the total supply of NDX (100,000) to do so, and
+1. The proposer requires 1% of the total supply of FFV (100,000) to do so, and
 2. The scoring contract tied to said controller utilizes the square-root FDV method.
 
 If the proposing party wishes to utilize something other than the square-root FDV methodology, the Sigma committee can get around the above on their behalf by deploying a new scoring contract (if it does not exist already) and creating the new index pool against the Sigma controller.
@@ -72,9 +72,9 @@ Examples of successful applications made in this manner are:
 
 ## Liquidity Mining
 
-All NDX liquidity mining has been rolled into a single fork of Masterchef V2, which covers both single-sided staking, core pools and Sigma pools.
+All FFV liquidity mining has been rolled into a single fork of Masterchef V2, which covers both single-sided staking, core pools and Sigma pools.
 
-The details of the liquidity mining program can be found [here](https://ndxfi.medium.com/introducing-the-extended-ndx-liquidity-mining-program-ae30a0470001), and the staking page itself can be found [here](https://indexed.finance/staking) - to ensure that your balances show up correctly, please make sure that your wallet is connected (top-right of the app) and that you're on the Avalanche mainnet.
+The details of the liquidity mining program can be found [here](https://FFVfi.medium.com/introducing-the-extended-FFV-liquidity-mining-program-ae30a0470001), and the staking page itself can be found [here](https://indexed.finance/staking) - to ensure that your balances show up correctly, please make sure that your wallet is connected (top-right of the app) and that you're on the Avalanche mainnet.
 
 ## The Circuit Breaker
 

@@ -35,9 +35,9 @@ In short, no. Indices are superb instruments for gaining exposure to a large seg
 
 ## Staking And Rewards
 
-At present, we reward users who provide liquidity to DEXes (i.e. Uniswap, Sushi) in the form of NDX governance tokens, at a rate relative to their share of the relevant liquidity pool.
+At present, we reward users who provide liquidity to DEXes (i.e. Uniswap, Sushi) in the form of FFV governance tokens, at a rate relative to their share of the relevant liquidity pool.
 
-We have migrated our reward scheme to a fork of Masterchef V2, which will run until mid-2023, emitting 1.5 million NDX via a linearly decreasing emission rate. Details of the rewards program can be found [here](https://ndxfi.medium.com/introducing-the-extended-ndx-liquidity-mining-program-ae30a0470001).
+We have migrated our reward scheme to a fork of Masterchef V2, which will run until mid-2023, emitting 1.5 million FFV via a linearly decreasing emission rate. Details of the rewards program can be found [here](https://FFVfi.medium.com/introducing-the-extended-FFV-liquidity-mining-program-ae30a0470001).
 
 ### I Hold {X} - Why Can't I Stake It For Rewards?
 
@@ -65,7 +65,7 @@ Note that minting is a fairly gas-intensive operation, and is not recommended fo
 
 It's possible to 'burn' index tokens either into their underlying components or directly to, e.g. ETH or DAI. This means you can always exit your index positions regardless of the liquidity of the index.
 
-Burning index tokens incurs an exit fee of 0.5% of the amount burned. In practice, these fees do not impact traders who are just market selling index tokens rather than burning them. Rather, they offset the potential profit margins of arbitrageurs (a fractional subset of the overall users of the Indexed protocol) that seek to profit from differences between the net asset value and the market price of the ETF. These fees are a source of revenue for Indexed and have thus far been routed to the Indexed DAO Treasury, pending distribution to NDX holders upon the introduction of staking.
+Burning index tokens incurs an exit fee of 0.5% of the amount burned. In practice, these fees do not impact traders who are just market selling index tokens rather than burning them. Rather, they offset the potential profit margins of arbitrageurs (a fractional subset of the overall users of the Indexed protocol) that seek to profit from differences between the net asset value and the market price of the ETF. These fees are a source of revenue for Indexed and have thus far been routed to the Indexed DAO Treasury, pending distribution to FFV holders upon the introduction of staking.
 
 ### Why Is The Total Supply Of {X} Always Changing?
 

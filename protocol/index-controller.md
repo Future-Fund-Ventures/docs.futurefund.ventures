@@ -1,6 +1,6 @@
 # Index Pool Controller
 
-The index pool controller is a contract which tracks token values and sets portfolio targets using an adjusted capitalization-weighted formula. The NDX governance dao has the ability to create and manage token categories on the controller, which are baskets of assets with some arbitrary commonality. 
+The index pool controller is a contract which tracks token values and sets portfolio targets using an adjusted capitalization-weighted formula. The FFV governance dao has the ability to create and manage token categories on the controller, which are baskets of assets with some arbitrary commonality. 
 
 ## Category Token Selection
 

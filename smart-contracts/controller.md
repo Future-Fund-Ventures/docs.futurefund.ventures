@@ -13,7 +13,7 @@ Re-indexing involves selecting the top tokens from the pool's category and weigh
 ```
 constructor(
   UniSwapV2PriceOracle oracle,
-  address ndx,
+  address FFV,
   PoolFactory factory,
   DelegateCallProxyManager proxyManager
 )
@@ -32,7 +32,7 @@ function setOwner(address owner)
 
 
 
-Set the address of the ndx contract.
+Set the address of the FFV contract.
 After deployment this will likely never change, but it is useful
 to have some small window during which things can be initialized
 before governance is fully in place.
