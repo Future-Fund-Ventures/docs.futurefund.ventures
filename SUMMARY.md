@@ -1,4 +1,6 @@
-# Table of Contents
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Introduction
 
@@ -13,9 +15,7 @@
 * [Using Your Vote](community/user-governance.md)
 * [The Sigma Program](community/sigma.md)
 
-## Technical Details
-
-### Index Pool Protocol
+## Index Pool Protocol
 
 * [Terminology](protocol/terminology.md)
 * [Governance](protocol/governance.md)
@@ -26,7 +26,7 @@
   * [Bootstrapping New Tokens](protocol/rebalancing/adding-tokens.md)
   * [Removing Tokens](protocol/rebalancing/removing-tokens.md)
 
-### Index Pool Smart Contracts
+## Index Pool Smart Contracts
 
 * [Deployments](smart-contracts/deployments.md)
 * [IndexPool.sol](smart-contracts/pool.md)
@@ -44,10 +44,10 @@
   * [IIndexPool.sol](smart-contracts/interfaces/IIndexPool.md)
   * [IFlashLoanRecipient.sol](smart-contracts/interfaces/IFlashLoanRecipient.md)
 
-### Yield Aggregator Protocol
+## Yield Aggregator Protocol
 
 * [Supported Assets](nirn/supported.md)
 
-### Yield Aggregator Smart Contracts
+## Yield Aggregator Smart Contracts
 
 * [Deployments](nirn/deployments.md)
